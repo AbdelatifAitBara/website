@@ -1,24 +1,26 @@
-<!--
+---
+name: Pull Request
+about: Describe your Pull Request to the Kubernetes Website Arabic Localization Project
+labels:
+- language/ar
+---
 
- Hello!
 
- Remember to ADD A DESCRIPTION and delete this note before submitting
- your pull request. The description should explain what will change,
- and why.
+**Description**
+<!-- [Provide a clear and concise description of the changes made in this PR.] -->
 
- PLEASE title the FIRST commit appropriately, so that if you squash all
- your commits into one, the combined commit message makes sense.
- For overall help on editing and submitting pull requests, visit:
-  https://kubernetes.io/docs/contribute/suggesting-improvements/
+**Related Issue**
+<!-- [Mention the issue number or link to the related issue that this PR addresses.] -->
 
- Use the default base branch, “main”, if you're documenting existing
- features in the English localization.
+**Preview of Edited Page(s)**
+<!-- [Provide a link to a preview of the edited page(s) for easier review.] -->
 
- If you're working on a different localization (not English), see
- https://kubernetes.io/docs/contribute/new-content/overview/#choose-which-git-branch-to-use
- for advice.
+**Checklist**
 
- If you're documenting a feature that will be part of a future release, see
- https://kubernetes.io/docs/contribute/new-content/new-features/ for advice.
+- [ ]  I have tested the changes locally and they are working as expected.
+- [ ]  I have followed the coding style guidelines.
+- [ ]  I have squashed my commits into a single commit with a clear commit message.
 
--->
+
+**Additional Information**
+<!-- [Provide any additional information or context that might be helpful for the reviewers and approvers.]-->
